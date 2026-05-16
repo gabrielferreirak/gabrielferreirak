@@ -1,16 +1,35 @@
-## Hi there 👋
+## Gabriel Ferreira
 
-<!--
-**gabrielferreirak/gabrielferreirak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em IA, automação, aplicações web e infraestrutura.
 
-Here are some ideas to get you started:
+## Áreas de interesse
+- Inteligência Artificial
+- Sistemas distribuídos
+- Automação
+- Infraestrutura
+- Backend
+- Aplicações full-stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+- Python
+- JavaScript
+- Node.js
+- Docker
+- PostgreSQL/MySQL
+- APIs REST
+- Git/GitHub
+- Linux/Windows
+
+## Projetos
+- Sistemas web administrativos
+- Ferramentas de automação
+- Agentes com IA local
+- Aplicações full-stack
+- Integrações e infraestrutura
+
+## Atualmente estudando
+- Engenharia de IA
+- Arquitetura de sistemas
+- Infraestrutura escalável
+- Agentes autônomos
+- Deploy e DevOps
